@@ -1,2 +1,43 @@
-# My-Portfolio-Site
-My Web Portfolio Site 
+# Lucas Benua – Portfolio
+
+Welcome to my portfolio website!
+
+## 👋 About Me
+Hi, I'm **Lucas Benua**, a student passionate about technology and problem solving. My main interests include:
+
+- 🔐 Cybersecurity
+- 🌐 Web Design & Development
+- 🤖 Machine Learning
+
+I enjoy learning how systems work, building projects, and exploring ways to make technology more secure and efficient.
+
+## 💻 Skills
+
+**Languages & Technologies**
+- Network Design
+- HTML
+- CSS
+- JavaScript 
+- Python 
+
+**Areas of Interest**
+- Cybersecurity fundamentals
+- Secure web development
+- Machine learning concepts
+- Front-end web design
+
+## 🎯 Goals
+My goals include:
+
+- Continuing to improve my **web development skills**
+- Learning more about **cybersecurity tools and techniques**
+- Exploring **machine learning and AI**
+- Building real-world projects
+
+## 📫 Contact
+If you'd like to connect or collaborate:
+  Linkedln: www.linkedin.com/in/lucas-benua-9723202b8
+  Email: lbbenua@gmail.com
+---
+
+⭐ Thanks for visiting my portfolio!
