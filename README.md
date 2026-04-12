@@ -2,16 +2,15 @@
 
 Welcome to my portfolio website!
 
-## 👋 About Me
-Hi, I'm **Lucas Benua**, a student passionate about technology and problem solving. My main interests include:
+Hi, I'm Lucas Benua and am a student passionate about technology and problem solving. My main interests include:
 
-- 🔐 Cybersecurity
-- 🌐 Web Design & Development
-- 🤖 Machine Learning
+- Cybersecurity
+- Web Design & Development
+- Machine Learning
 
 I enjoy learning how systems work, building projects, and exploring ways to make technology more secure and efficient.
 
-## 💻 Skills
+## Skills
 
 **Languages & Technologies**
 - Network Design
