@@ -25,7 +25,7 @@ I enjoy learning how systems work, building projects, and exploring ways to make
 - Machine learning concepts
 - Front-end web design
 
-## 🎯 Goals
+## Goals
 My goals include:
 
 - Continuing to improve my **web development skills**
@@ -33,10 +33,10 @@ My goals include:
 - Exploring **machine learning and AI**
 - Building real-world projects
 
-## 📫 Contact
+## Contact
 If you'd like to connect or collaborate:
   Linkedln: www.linkedin.com/in/lucas-benua-9723202b8
   Email: lbbenua@gmail.com
 ---
 
-⭐ Thanks for visiting my portfolio!
+Thanks for visiting my portfolio!
