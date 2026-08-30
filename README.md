@@ -33,10 +33,5 @@ My goals include:
 - Exploring **machine learning and AI**
 - Building real-world projects
 
-## Contact
-If you'd like to connect or collaborate:
-  Linkedln: www.linkedin.com/in/lucas-benua-9723202b8
-  Email: lbbenua@gmail.com
----
 
 Thanks for visiting my portfolio!
